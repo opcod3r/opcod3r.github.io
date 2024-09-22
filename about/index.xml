@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Blog about infosec/Dev</title>
+    <link>https://opcod3r.github.io/about/</link>
+    <description>Recent content in Abouts on Blog about infosec/Dev</description>
+    <generator> -- go.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2024, opcod3r</copyright>
+    <lastBuildDate>Thu, 18 Apr 2019 22:40:38 -0300</lastBuildDate>
+    <atom:link href="https://opcod3r.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://opcod3r.github.io/about/2020-01-02-about/</link>
+      <pubDate>Thu, 18 Apr 2019 22:40:38 -0300</pubDate>
+      <guid>https://opcod3r.github.io/about/2020-01-02-about/</guid>
+      <description>cat ~/info.txt Rodolfo Tavares is a pentester with over five years of experience poking around in all the right (and wrong) places in cybersecurity. From hacking apps (AppSec), breaking into infrastructure, and even figuring out how to mess with ATMs and POS systems (don’t worry, all ethical), he&amp;rsquo;s done it all. Along the way, he’s found and reported a ton of vulnerabilities, earning himself a bunch of shiny CVEs. Oh, and you might also know him by his alter egos rodnt or incogbyte—because even pentesters need a r4nd0m alias, right?</description>
+    </item>
+  </channel>
+</rss>
